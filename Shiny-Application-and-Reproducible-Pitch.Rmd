@@ -26,3 +26,9 @@ https://khushi1013.shinyapps.io/geyser-data/
 ui.R and server.R can be found in my github repository:
 https://github.com/khushi1013/Shiny-Application-and-Reproducible-Pitch
 
+
+Acknowledgement
+========================================================
+
+Thank you
+
