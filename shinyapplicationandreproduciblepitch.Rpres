@@ -17,16 +17,11 @@ Steps to Perform
 - Share the application link by pasting it into the provided text box
 - Share your server.R and ui.R code on github
 
-Slide With Code
+Links
 ========================================================
 
-```{r}
-summary(cars)
-```
+The application is running on: 
+https://khushi1013.shinyapps.io/geyser-data/
 
-Slide With Plot
-========================================================
-
-```{r, echo=FALSE}
-plot(cars)
-```
+ui.R and server.R can be found in my github repository:
+https://github.com/khushi1013/Shiny-Application-and-Reproducible-Pitch
