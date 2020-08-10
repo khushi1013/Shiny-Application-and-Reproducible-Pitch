@@ -1,0 +1,32 @@
+Shiny Application and Reproducible Pitch
+========================================================
+author: Khushi Vedagarbham 
+date: 10-08-2020
+autosize: true
+
+Project Goal
+========================================================
+
+This peer graded assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Rstudio Presenter to prepare a reproducible pitch presentation about your application
+
+Steps to Perform
+========================================================
+
+- Write a shiny application with associated supporting documentation. The documentation should be though of as hwatever a user will need to get started using your application
+- Deploy the application on Rstudio's shiny server
+- Share the application link by pasting it into the provided text box
+- Share your server.R and ui.R code on github
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
